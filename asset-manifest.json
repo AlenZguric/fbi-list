@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlenZguric/fbi-list.git/static/css/main.dc208be8.css",
+    "main.js": "/AlenZguric/fbi-list.git/static/js/main.b987b073.js",
+    "index.html": "/AlenZguric/fbi-list.git/index.html",
+    "main.dc208be8.css.map": "/AlenZguric/fbi-list.git/static/css/main.dc208be8.css.map",
+    "main.b987b073.js.map": "/AlenZguric/fbi-list.git/static/js/main.b987b073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc208be8.css",
+    "static/js/main.b987b073.js"
+  ]
+}
