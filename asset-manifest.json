@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fbi-list/static/css/main.dc208be8.css",
-    "main.js": "/fbi-list/static/js/main.b987b073.js",
+    "main.css": "/fbi-list/static/css/main.b2df3bf5.css",
+    "main.js": "/fbi-list/static/js/main.95a7a952.js",
     "index.html": "/fbi-list/index.html",
-    "main.dc208be8.css.map": "/fbi-list/static/css/main.dc208be8.css.map",
-    "main.b987b073.js.map": "/fbi-list/static/js/main.b987b073.js.map"
+    "main.b2df3bf5.css.map": "/fbi-list/static/css/main.b2df3bf5.css.map",
+    "main.95a7a952.js.map": "/fbi-list/static/js/main.95a7a952.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc208be8.css",
-    "static/js/main.b987b073.js"
+    "static/css/main.b2df3bf5.css",
+    "static/js/main.95a7a952.js"
   ]
 }
